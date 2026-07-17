@@ -13,7 +13,7 @@
 
 <small>
 🙋🏻‍♀️ Name : yunji lee<br>
-🏫 Edu : Sejong University, ERICA<br>
+🏫 Edu : Sejong University<br>
 🎓 Major : Content Software<br>
 </small>
 
