@@ -14,7 +14,7 @@
 <small>
 🙋🏻‍♀️ Name : yunji lee<br>
 🏫 Edu : Sejong University<br>
-🎓 Major : Content Software<br>
+🎓 Major : Content Department of Software<br>
 </small>
 
 <br>
