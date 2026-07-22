@@ -13,16 +13,16 @@ Welcome to Yunji's GitHub
 
 🙋🏻‍♀️ Name : Yunji Lee
 
-<br><br>
+<br>
 
 🏫 Edu : Sejong University
 
-<br><br>
+<br>
 
 🎓 Major : Content Software Department
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 <div style="font-size: 28px; font-weight: 700;">
