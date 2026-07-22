@@ -8,17 +8,8 @@
 <div style="font-size: 28px; font-weight: 700;">
 Welcome to Yunji's GitHub
 </div>
-
-<br><br>
-
 🙋🏻‍♀️ Name : Yunji Lee
-
-<br>
-
 🏫 Edu : Sejong University
-
-<br>
-
 🎓 Major : Content Software Department
 </div>
 
