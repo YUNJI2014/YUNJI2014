@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=4983f8&height=180&text=Hello,%20I'm%20Yunji&animation=fadeIn&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=4983f8&height=240&text=Hello,%20I'm%20Yunji&animation=fadeIn&fontColor=000000&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to Yunji's GitHub </h2>  
