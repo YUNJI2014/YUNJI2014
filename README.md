@@ -5,8 +5,8 @@
 <br><br>
 
 <div align="center">
-<div style="font-size: 28px; font-weight: 700;">
-Welcome to Yunji's GitHub
+<div style="font-size: 28px;">
+<b>Welcome to Yunji's GitHub</b>
 </div>
 
 <br>
@@ -19,8 +19,8 @@ Welcome to Yunji's GitHub
 <br><br>
 
 <div align="center">
-<div style="font-size: 28px; font-weight: 700;">
-🛠️ Tech Stacks
+<div style="font-size: 28px;">
+<b>🛠️ Tech Stacks</b>
 </div>
 
 <br>
@@ -33,8 +33,8 @@ Welcome to Yunji's GitHub
 <br><br>
 
 <div align="center">
-<div style="font-size: 28px; font-weight: 700;">
-🧑‍💻 Contact me
+<div style="font-size: 28px;">
+<b>🧑‍💻 Contact me</b>
 </div>
 
 <br>
@@ -51,8 +51,8 @@ Welcome to Yunji's GitHub
 <br><br>
 
 <div align="center">
-<div style="font-size: 28px; font-weight: 700;">
-🏅 Stats
+<div style="font-size: 28px;">
+<b>🏅 Stats</b>
 </div>
 
 <br>
