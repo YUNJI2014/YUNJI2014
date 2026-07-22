@@ -2,26 +2,38 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4983f8&height=240&text=Hello,%20I'm%20Yunji&animation=fadeIn&fontColor=000000&fontSize=50" />
 </div>
 
+<br><br>
+
 <div align="center">
 <h2>Welcome to Yunji's GitHub</h2>
 
 <p>
 🙋🏻‍♀️ Name : Yunji Lee<br>
+<br>
 🏫 Edu : Sejong University<br>
+<br>
 🎓 Major : Content Software Department
 </p>
 </div>
 
+<br><br>
+
 <div align="center">
 <h2>🛠️ Tech Stacks</h2>
+
+<br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 </div>
 
+<br><br>
+
 <div align="center">
 <h2>🧑‍💻 Contact me</h2>
+
+<br>
 
 <a href="https://app.notion.com/p/d1882f7ed5fd83c999d081dcaf0357c0">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
@@ -32,10 +44,16 @@
 </a>
 </div>
 
+<br><br>
+
 <div align="center">
 <h2>🏅 Stats</h2>
 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=yunjiLee&show_icons=true&bg_color=180,527dff,00000000&title_color=000000&text_color=000000" />
+
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiLee&layout=compact&bg_color=180,527dff,00000000&title_color=000000&text_color=000000" />
 </div>
