@@ -5,23 +5,31 @@
 <br><br>
 
 <div align="center">
-<h2>Welcome to Yunji's GitHub</h2>
+<div style="font-size: 28px; font-weight: 700;">
+Welcome to Yunji's GitHub
+</div>
 
-<p>
-🙋🏻‍♀️ Name : Yunji Lee<br>
-<br>
-🏫 Edu : Sejong University<br>
-<br>
+<br><br>
+
+🙋🏻‍♀️ Name : Yunji Lee
+
+<br><br>
+
+🏫 Edu : Sejong University
+
+<br><br>
+
 🎓 Major : Content Software Department
-</p>
 </div>
 
 <br><br>
 
 <div align="center">
-<h2>🛠️ Tech Stacks</h2>
+<div style="font-size: 28px; font-weight: 700;">
+🛠️ Tech Stacks
+</div>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -31,9 +39,11 @@
 <br><br>
 
 <div align="center">
-<h2>🧑‍💻 Contact me</h2>
+<div style="font-size: 28px; font-weight: 700;">
+🧑‍💻 Contact me
+</div>
 
-<br>
+<br><br>
 
 <a href="https://app.notion.com/p/d1882f7ed5fd83c999d081dcaf0357c0">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
@@ -47,9 +57,11 @@
 <br><br>
 
 <div align="center">
-<h2>🏅 Stats</h2>
+<div style="font-size: 28px; font-weight: 700;">
+🏅 Stats
+</div>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yunjiLee&show_icons=true&bg_color=180,527dff,00000000&title_color=000000&text_color=000000" />
 
